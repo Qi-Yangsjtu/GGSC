@@ -22,5 +22,5 @@ xxx.json: compression parameters
 xxx_time.txt: compression time log  
 
 ## GSQA dataset
-Google Cloud Drive：https://drive.google.com/drive/folders/1yPYlFsbamrSgkdSAc1J5byozADljrbbp?usp=sharing
+Google Cloud Drive：https://drive.google.com/drive/folders/1yPYlFsbamrSgkdSAc1J5byozADljrbbp?usp=sharing  
 Baidu Cloud Drive: https://pan.baidu.com/s/14zJyYmbj8pMlsPqnBMBuzQ password: 6njd   
