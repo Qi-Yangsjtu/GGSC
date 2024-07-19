@@ -9,3 +9,6 @@ pip install arithmetic_compressor
 pip install scipy  
 pip install matplotlib  
 
+## Run script
+check script "test_example.py"  
+set necessary file path and run
