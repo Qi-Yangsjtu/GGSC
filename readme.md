@@ -18,3 +18,5 @@ you will find the following files after run the script:
 xxx_geo.bin: bitrate for GS center  
 xxx_attr.bin: bitrate for GS attributes  
 xxx_rec.ply: reconstructed GS sample after compression  
+xxx.json: compression parameters  
+xxx_time.txt: compression time log  
