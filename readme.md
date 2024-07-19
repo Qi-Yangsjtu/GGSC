@@ -12,3 +12,9 @@ pip install matplotlib
 ## Run script
 check script "test_example.py"  
 set necessary file path and run
+
+## Result
+you will find the following files after run the script:  
+xxx_geo.bin: bitrate for GS center  
+xxx_attr.bin: bitrate for GS attributes  
+xxx_rec.ply: reconstructed GS sample after compression  
