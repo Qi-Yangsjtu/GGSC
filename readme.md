@@ -24,3 +24,21 @@ xxx_time.txt: compression time log
 ## GSQA dataset
 OneDrive：https://1drv.ms/f/c/3dbe3858aa085846/EjN7TaKq5QBNhgE83zV5plIB5RcFIUmlV0VCvzsXpFp8pQ?e=5aGyg8 
 Baidu Cloud Drive: https://pan.baidu.com/s/14zJyYmbj8pMlsPqnBMBuzQ password: 6njd   
+
+If you use our code and dataset, please cite our paper；
+
+@inproceedings{yang2024GGSC,
+author = {Yang, Qi and Yang, Kaifa and Xing, Yuke and Xu, Yiling and Li, Zhu},
+title = {A Benchmark for Gaussian Splatting Compression and Quality Assessment Study},
+year = {2024},
+isbn = {9798400712739},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3696409.3700172},
+doi = {10.1145/3696409.3700172},
+booktitle = {Proceedings of the 6th ACM International Conference on Multimedia in Asia},
+articleno = {12},
+numpages = {8},
+keywords = {3D Gaussian Splatting, Compression, Quality Assessment},
+series = {MMAsia '24}
+}
