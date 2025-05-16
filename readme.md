@@ -13,6 +13,8 @@ pip install matplotlib
 check script "test_example.py"  
 set necessary file path and run
 
+Note: our "renderScript/render_new.py" uses a function "JSON_to_camera", please use the provided "renderScript/camera_utils.py" to replace original 3DGS "camera_utils.py", or copy the function "JSON_to_camera" into your own "camera_utils.py"
+
 ## Result
 you will find the following files after run the script:  
 xxx_geo.bin: bitrate for GS center  
